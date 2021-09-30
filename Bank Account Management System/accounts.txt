@@ -1,0 +1,28 @@
+accountNumber:1
+accountName:Sabbir Mozumder
+address:Vatara;Dhaka-1212;Bangladesh
+balance:10000.0
+accountNumber:2
+accountName:Mairan Sultana
+address:Mogbazar;Dhaka;Bangladesh
+balance:401000.0
+accountNumber:3
+accountName:Marjan Sultana
+address:Romna;Dhaka;Bangladesh
+balance:60000.0
+accountNumber:4
+accountName:Fatema Khatun
+address:Shaktola;Comilla;Bangladesh
+balance:1500000.0
+accountNumber:5
+accountName:Sofiullah Mozumder
+address:Saktola;Comilla;Bangladesh
+balance:2000000.0
+accountNumber:6
+accountName:Ayesha Tabassum Subha
+address:Gulshan 2;Road 76/house-2;Dhaka 1212;Bangladesh
+balance:120.0
+accountNumber:7
+accountName:Umme Salma
+address:Vatara, sayednogor, block B;house no 3;Dhaka-1212;Bangladesh
+balance:9500.0

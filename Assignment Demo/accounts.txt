@@ -1,0 +1,68 @@
+accountNumber:1
+accountName:Hasan Tareque
+address:24 Kemal Ataturk Acenue;Banani;Dhaka - 1213
+balance:10000.0
+accountNumber:2
+accountName:Rakibul Hasan
+address:64 Kemal Ataturk Acenue;Banani;Dhaka - 1213
+balance:1000000.0
+accountNumber:3
+accountName:minhaj
+address:boshundhara;dhaka;bangladesh
+balance:7000.0
+accountNumber:4
+accountName:mairan
+address:gulshan;dhaka;bangladesh
+balance:6000.0
+accountNumber:5
+accountName:Amantul kayyium Oishi
+address:999 uttara;dhaka;bangladesh
+balance:11000.0
+accountNumber:6
+accountName:Marjan Sultana
+address:shantinogor;dhaka;bangladesh
+balance:50000.0
+accountNumber:7
+accountName:Omor Abir
+address:mogbazar;dhaka;bangladesh
+balance:8000.0
+accountNumber:8
+accountName:sumaiya
+address:shaktola;comilla;bangladesh
+balance:50000.0
+accountNumber:9
+accountName:fatema
+address:Shaktola;Comilla;Bangladesh
+balance:100000.0
+accountNumber:10
+accountName:shofiullah mazumder
+address:Shaktola;Comilla;Bangladesh
+balance:1000000.0
+accountNumber:11
+accountName:hakka
+address:nowehere
+balance:500.0
+accountNumber:12
+accountName:gulu
+address:ekhane
+balance:10.0
+accountNumber:13
+accountName:lulu
+address:idk
+balance:12.0
+accountNumber:14
+accountName:Armun alom
+address:rampura;dhaka;bangladesh
+balance:3.0
+accountNumber:15
+accountName:Jumma Siddiqui
+address:Romna;Dhaka;Bangladesh
+balance:1000000.0
+accountNumber:16
+accountName:Brishti mozumder
+address:Vatara;Dhaka;Bangladesh
+balance:150000.0
+accountNumber:17
+accountName:test
+address:idk
+balance:12.0
